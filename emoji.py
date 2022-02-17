@@ -9,7 +9,7 @@ import cv2
 from keras.models import load_model
 import threading
 
-#uhuu
+#ram is going to home
 
 from keras.models import Sequential
 
