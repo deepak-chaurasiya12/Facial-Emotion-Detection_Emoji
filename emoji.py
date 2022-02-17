@@ -1,4 +1,4 @@
-#this is deepak
+#Done by Deepak and Shushant
 import tkinter as tk
 from tkinter import *
 import cv2
@@ -9,7 +9,6 @@ import cv2
 from keras.models import load_model
 import threading
 
-#ram is going to home
 
 from keras.models import Sequential
 
